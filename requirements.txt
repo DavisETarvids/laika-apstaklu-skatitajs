@@ -1,0 +1,8 @@
+# Vajadzīgās bibliotēkas:
+
+requests
+colorama
+datetime
+csv
+os
+argparse
